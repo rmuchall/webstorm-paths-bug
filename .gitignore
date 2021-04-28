@@ -1,0 +1,8 @@
+# Node modules
+/my-project/node_modules
+
+# Webstorm
+/my-project/.idea/workspace.xml
+
+# Build
+/my-project/build
