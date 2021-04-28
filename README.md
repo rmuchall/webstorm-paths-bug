@@ -9,4 +9,4 @@ When using the Typescript paths option in tsconfig.json code analysis is broken.
 4. Code analysis is broken for the function isString() imported from the library meta-validator<br/>
 Please see attached screenshot.
 
-## Screenshot
+![screenshot](https://raw.githubusercontent.com/rmuchall/webstorm-paths-bug/master/screenshot.png)
